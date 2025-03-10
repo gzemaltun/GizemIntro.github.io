@@ -1,1 +1,1 @@
-# IntroGizem.github.io
+# IntroGizem
